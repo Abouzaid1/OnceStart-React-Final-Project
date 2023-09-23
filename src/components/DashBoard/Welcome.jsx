@@ -25,7 +25,7 @@ export default function Welcome() {
 
   return (
     <>
-    <div className='px-12 text-text font-bold flex justify-between items-center'>
+    <div className='px-12 text-text font-bold md:flex justify-between items-center'>
       <div>
         <p className='lg:text-[45px] text-[35px] '>Nice To See You <span className='text-[#fdf7d2]'>{userName}  <FontAwesomeIcon className='text-[40px]' icon="fa-solid fa-handshake" /></span></p>
         <p className='text-[25px] mt-5'>DashBoard</p>
