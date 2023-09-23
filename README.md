@@ -49,6 +49,3 @@ TaskMaster is an open-source project developed by a passionate team of developer
 
 TaskMaster is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute this application according to the terms of the license.
 
----
-
-Feel free to customize this description to match the specifics of your project, including adding any additional features or details that may be relevant.
